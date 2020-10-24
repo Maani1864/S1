@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.sticky-top{
+    background-color: black;
+    color: white
+}
+#icon1{
+    padding-left: 25%;
+    padding-right: 2%;
+    color: gainsboro
+}
+#icon2{
+    padding-right: 2%;
+    color: gainsboro
+}
+.flex-container{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    padding: 3%5%;
+    
+}
+.row{
+    margin: 0;
+    padding: 30px 50px;
+    background-color: black;
+    color: white;
+    text-align: justify;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: left;
+    margin-bottom: 0px;
+}
+#news{
+    padding: 0px 150px;
+}
+#im{
+    vertical-align: 100px;
+    padding-left: 40px;
+}
